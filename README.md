@@ -5,6 +5,8 @@ We had been asked by Seth and Tom to help create a code that could quickly count
 
 ## Election-Audit Results
 
+### Code?
+
 ### Results
 
 Through our analysis, we determined:
@@ -26,8 +28,6 @@ Through our analysis, we determined:
 
 ![Analysis of Congressional Election](https://github.com/bromul/election-analysis/blob/main/Images/election_results.PNG)
 
-
-### Code?
   
 ## Election-Audit Summary
 Proposal to election commission on how the script can be used - with modifications - for any election.
