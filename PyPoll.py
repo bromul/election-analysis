@@ -3,10 +3,10 @@ import csv
 import os
 
 # Assign variable to save file to a path
-file_to_save = os.path.join("Module_3", "election-analysis", "Analysis", "election_analysis.txt")
+file_to_save = os.path.join("Analysis", "election_analysis.txt")
 
 # Assign variable to load file from path
-file_to_load = os.path.join("Module_3", "election-analysis", "Resources", "election_results.csv")
+file_to_load = os.path.join("Resources", "election_results.csv")
 
 # Initialize a total vote counter
 total_votes = 0
@@ -103,6 +103,3 @@ with open(file_to_save, "w") as txt_file:
 
     # Save winning candidate's results to the text file
     txt_file.write(winning_candidate_summary)
-    
-
-    
