@@ -1,7 +1,14 @@
 # PyPoll with Python
 
 ## Overview of Election Audit
-We had been asked by Seth and Tom to help create a code that could quickly count through the votes in their congressional election and determine the results for the election commission. Once this had been determined, we modified our code to further assist with the electoral audit - specifically by determining the county with the largest turnout.
+This project analyzed voter data to certify the results of a U.S. congressional election in a Colorado precinct.
+
+## Purpose
+We had been asked by Tom, a Board of Elections official, and his manager Seth, to create a code that could quickly count through the voter data in their congressional election and certify the results for the election commission. 
+Once this had been determined, we modified our code to further assist with the electoral audit - specifically by determining the county with the largest turnout.
+
+Total number of votes cast, how many votes each candidate received (gross and percentage), and the winner of the election. Later we were asked to see how many votes (gross and percentage) were cast in separate counties.
+To certify the election.
 
 ## Election-Audit Results
 
@@ -30,6 +37,8 @@ Through our analysis, we determined:
 
   
 ## Election-Audit Summary
+
+
 Proposal to election commission on how the script can be used - with modifications - for any election.
 
 At least *2* examples of modification
