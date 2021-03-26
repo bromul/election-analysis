@@ -23,6 +23,10 @@ Through our analysis, we determined:
   - Vote Count: 272,892
   - Percentage: 73.8%
 
+
+![Analysis of Congressional Election](https://github.com/bromul/election-analysis/blob/main/Images/election_results.PNG)
+
+
 ### Code?
   
 ## Election-Audit Summary
